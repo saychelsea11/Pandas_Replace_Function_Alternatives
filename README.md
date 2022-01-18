@@ -1,1 +1,4 @@
-# Pandas_Replace_Function_Alternatives
+# Pandas Replace Function Alternatives
+- *np.where*
+- *df.between*
+- *df.mask*
